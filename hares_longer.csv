@@ -1,0 +1,121 @@
+Treatment,Replicate,Measurement,Droppings,Herbivore,Plantspecies,Who,Day
+Dune,1,1,2,Hare,6,Julia/Sharmi,1
+Dune,1,2,0,Hare,5,Julia/Sharmi,1
+Dune,1,3,6,Hare,7,Julia/Sharmi,1
+Dune,1,4,0,Hare,5,Nguyen,1
+Dune,1,5,3,Hare,5,Nguyen,1
+Dune,2,1,0,Hare,7,Julia/Sharmi,1
+Dune,2,2,2,Hare,5,Julia/Sharmi,1
+Dune,2,3,0,Hare,3,Nguyen,1
+Dune,2,4,0,Hare,4,Nguyen,1
+Dune,2,5,0,Hare,5,Nguyen,1
+Dune,3,1,1,Hare,6,Julia/Sharmi,1
+Dune,3,2,1,Hare,6,Julia/Sharmi,1
+Dune,3,3,7,Hare,6,Julia/Sharmi,1
+Dune,3,4,0,Hare,3,Nguyen,1
+Dune,3,5,2,Hare,6,Nguyen,1
+Dune,4,1,3,Hare,8,Nguyen,2
+Dune,4,2,4,Hare,7,Nguyen,2
+Dune,4,3,1,Hare,5,Nguyen,2
+Dune,4,4,2,Hare,5,Julia/Sharmi,2
+Dune,4,5,3,Hare,5,Julia/Sharmi,2
+Dune,1,1,3,Rabbit,6,Julia/Sharmi,1
+Dune,1,2,0,Rabbit,5,Julia/Sharmi,1
+Dune,1,3,2,Rabbit,7,Julia/Sharmi,1
+Dune,1,4,0,Rabbit,5,Nguyen,1
+Dune,1,5,2,Rabbit,5,Nguyen,1
+Dune,2,1,0,Rabbit,7,Julia/Sharmi,1
+Dune,2,2,1,Rabbit,5,Julia/Sharmi,1
+Dune,2,3,0,Rabbit,3,Nguyen,1
+Dune,2,4,2,Rabbit,4,Nguyen,1
+Dune,2,5,5,Rabbit,5,Nguyen,1
+Dune,3,1,0,Rabbit,6,Julia/Sharmi,1
+Dune,3,2,3,Rabbit,6,Julia/Sharmi,1
+Dune,3,3,4,Rabbit,6,Julia/Sharmi,1
+Dune,3,4,8,Rabbit,3,Nguyen,1
+Dune,3,5,6,Rabbit,6,Nguyen,1
+Dune,4,1,2,Rabbit,8,Nguyen,2
+Dune,4,2,0,Rabbit,7,Nguyen,2
+Dune,4,3,0,Rabbit,5,Nguyen,2
+Dune,4,4,13,Rabbit,5,Julia/Sharmi,2
+Dune,4,5,2,Rabbit,5,Julia/Sharmi,2
+Salt Marsh,1,1,2,Hare,10,Julia,1
+Salt Marsh,1,2,8,Hare,7,Julia,1
+Salt Marsh,1,3,4,Hare,6,Sharmi,1
+Salt Marsh,1,4,5,Hare,6,Sharmi,1
+Salt Marsh,1,5,0,Hare,9,Nguyen,1
+Salt Marsh,2,1,11,Hare,4,Julia/Sharmi,1
+Salt Marsh,2,2,16,Hare,6,Julia/Sharmi,1
+Salt Marsh,2,3,1,Hare,6,Julia/Sharmi,1
+Salt Marsh,2,4,3,Hare,3,Nguyen,1
+Salt Marsh,2,5,8,Hare,6,Nguyen,1
+Salt Marsh,3,1,16,Hare,7,Julia/Sharmi,1
+Salt Marsh,3,2,7,Hare,6,Julia/Sharmi,1
+Salt Marsh,3,3,3,Hare,5,Julia/Sharmi,1
+Salt Marsh,3,4,10,Hare,5,Julia/Sharmi,1
+Salt Marsh,3,5,9,Hare,8,Julia/Sharmi,1
+Salt Marsh,4,1,0,Hare,4,Nguyen,2
+Salt Marsh,4,2,6,Hare,8,Nguyen,2
+Salt Marsh,4,3,2,Hare,7,Julia/Sharmi,2
+Salt Marsh,4,4,3,Hare,6,Julia/Sharmi,2
+Salt Marsh,4,5,2,Hare,6,Julia/Sharmi,2
+Salt Marsh,1,1,0,Rabbit,10,Julia,1
+Salt Marsh,1,2,1,Rabbit,7,Julia,1
+Salt Marsh,1,3,0,Rabbit,6,Sharmi,1
+Salt Marsh,1,4,1,Rabbit,6,Sharmi,1
+Salt Marsh,1,5,0,Rabbit,9,Nguyen,1
+Salt Marsh,2,1,1,Rabbit,4,Julia/Sharmi,1
+Salt Marsh,2,2,0,Rabbit,6,Julia/Sharmi,1
+Salt Marsh,2,3,0,Rabbit,6,Julia/Sharmi,1
+Salt Marsh,2,4,2,Rabbit,3,Nguyen,1
+Salt Marsh,2,5,2,Rabbit,6,Nguyen,1
+Salt Marsh,3,1,0,Rabbit,7,Julia/Sharmi,1
+Salt Marsh,3,2,1,Rabbit,6,Julia/Sharmi,1
+Salt Marsh,3,3,0,Rabbit,5,Julia/Sharmi,1
+Salt Marsh,3,4,3,Rabbit,5,Julia/Sharmi,1
+Salt Marsh,3,5,1,Rabbit,8,Julia/Sharmi,1
+Salt Marsh,4,1,0,Rabbit,4,Nguyen,2
+Salt Marsh,4,2,0,Rabbit,8,Nguyen,2
+Salt Marsh,4,3,0,Rabbit,7,Julia/Sharmi,2
+Salt Marsh,4,4,2,Rabbit,6,Julia/Sharmi,2
+Salt Marsh,4,5,2,Rabbit,6,Julia/Sharmi,2
+Agric. grassland,1,1,0,Hare,4,Julia/Sharmi,1
+Agric. grassland,1,2,0,Hare,4,Julia/Sharmi,1
+Agric. grassland,1,3,0,Hare,3,Nguyen,1
+Agric. grassland,1,4,0,Hare,3,Nguyen,1
+Agric. grassland,1,5,0,Hare,3,Nguyen,1
+Agric. grassland,2,1,0,Hare,4,Julia/Sharmi,1
+Agric. grassland,2,2,0,Hare,3,Julia/Sharmi,1
+Agric. grassland,2,3,0,Hare,3,Julia/Sharmi,1
+Agric. grassland,2,4,0,Hare,3,Nguyen,1
+Agric. grassland,2,5,0,Hare,5,Nguyen,1
+Agric. grassland,3,1,1,Hare,3,Julia/Sharmi,1
+Agric. grassland,3,2,0,Hare,2,Julia/Sharmi,1
+Agric. grassland,3,3,0,Hare,1,Julia/Sharmi,1
+Agric. grassland,3,4,3,Hare,1,Nguyen,1
+Agric. grassland,3,5,0,Hare,1,Nguyen,1
+Agric. grassland,4,1,0,Hare,1,Nguyen,2
+Agric. grassland,4,2,0,Hare,1,Nguyen,2
+Agric. grassland,4,3,0,Hare,3,Julia/Nguyen,2
+Agric. grassland,4,4,0,Hare,4,Julia/Sharmi,2
+Agric. grassland,4,5,0,Hare,2,Julia/Sharmi,2
+Agric. grassland,1,1,0,Rabbit,4,Julia/Sharmi,1
+Agric. grassland,1,2,0,Rabbit,4,Julia/Sharmi,1
+Agric. grassland,1,3,0,Rabbit,3,Nguyen,1
+Agric. grassland,1,4,0,Rabbit,3,Nguyen,1
+Agric. grassland,1,5,0,Rabbit,3,Nguyen,1
+Agric. grassland,2,1,0,Rabbit,4,Julia/Sharmi,1
+Agric. grassland,2,2,0,Rabbit,3,Julia/Sharmi,1
+Agric. grassland,2,3,0,Rabbit,3,Julia/Sharmi,1
+Agric. grassland,2,4,0,Rabbit,3,Nguyen,1
+Agric. grassland,2,5,0,Rabbit,5,Nguyen,1
+Agric. grassland,3,1,0,Rabbit,3,Julia/Sharmi,1
+Agric. grassland,3,2,0,Rabbit,2,Julia/Sharmi,1
+Agric. grassland,3,3,0,Rabbit,1,Julia/Sharmi,1
+Agric. grassland,3,4,0,Rabbit,1,Nguyen,1
+Agric. grassland,3,5,0,Rabbit,1,Nguyen,1
+Agric. grassland,4,1,0,Rabbit,1,Nguyen,2
+Agric. grassland,4,2,0,Rabbit,1,Nguyen,2
+Agric. grassland,4,3,0,Rabbit,3,Julia/Nguyen,2
+Agric. grassland,4,4,0,Rabbit,4,Julia/Sharmi,2
+Agric. grassland,4,5,0,Rabbit,2,Julia/Sharmi,2

@@ -41,11 +41,12 @@
      showgrid="false"
      inkscape:zoom="1.5104167"
      inkscape:cx="242.83744"
-     inkscape:cy="243.78325"
+     inkscape:cy="189.82463"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg340" />
+     inkscape:current-layer="g1140"
+     inkscape:document-rotation="0" />
   <defs
      id="defs4">
     <style
@@ -1037,5 +1038,20 @@
        textLength="150.11px"
        lengthAdjust="spacingAndGlyphs"
        id="text336"># hare droppings</text>
+  </g>
+  <g
+     id="g1140"
+     transform="translate(-15.686858,-466.20231)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c98b42;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="78.140007"
+       y="494.47537"
+       id="text1104"><tspan
+         id="tspan1102"
+         x="78.140007"
+         y="494.47537"
+         style="font-size:16px"
+         sodipodi:role="line">slope= 0.36; p= 1.53e-15 </tspan></text>
   </g>
 </svg>
